@@ -1,8 +1,6 @@
 #  Atividade  Aula 3 - 22/05/2019
 ##  Covid-19: a evolução dos casos e das mortes em diferentes países
-
-Os [gráficos](https://www.nexojornal.com.br/grafico/2020/04/22/Covid-19-a-evolu%C3%A7%C3%A3o-dos-casos-e-das-mortes-em-diferentes-pa%C3%ADses) apresentados pela equipe do Nexo Jornal exibem a evolução dos casos de COVID-19 nos 16 países mais afetados pela pandemia, dentre eles, o Brasil. A análise das curvas de casos confirmados em diferentes estágios de desenvolvimento permite avaliar o impacto de diferentes respostas de governos à pandemia e traçar cenários de enfrentamento. Podemos observar:
-
+Os [gráficos](https://www.nexojornal.com.br/grafico/2020/05/04/Os-novos-casos-de-covid-19-nos-pa%C3%ADses-mais-afetados-pela-pandemia) apresentados pela equipe do Nexo Jornal exibem a evolução dos casos de COVID-19 nos 16 países mais afetados pela pandemia, dentre eles, o Brasil. A análise das curvas de casos confirmados em diferentes estágios de desenvolvimento permite avaliar o impacto de diferentes respostas de governos à pandemia e traçar cenários de enfrentamento. Podemos observar:
 - *A China já praticamente livre dos casos de coronavírus.*
 - *Espanha, Itália, Alemanha e França com casos em queda.*
 - *EUA, Peru e Brasil com a curva de infectados em ascensão.*
